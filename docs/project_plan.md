@@ -17,8 +17,8 @@ The goal of this project is to analyze customer behavior and build a KPI dashboa
 - Insights (Factors influencing purchase)
 
 ## 4. Tools
-- Python (data cleaning & analysis)
-- SQL (KPI calculation)
+- Python (data cleaning)
+- SQL (KPI calculation & analysis)
 - Power BI (dashboard)
 
 ## 5. Next Steps
