@@ -20,10 +20,10 @@ This imbalance reflects real-world e-commerce behavior, where the majority of se
 ![KPI](images/kpi_overview.png)
 
 ### Product Engagement
-![Engagement](images/product_engagement.png)
+![Engagement](<img src="images/product_engagement.png" width="600">)
 
 ### Monthly Trend
-![Trend](images/monthly_trend.png)
+![Trend]<img src="images/monthly_trend.png" width="600">
 
 ## Tools
 - Python (pandas, matplotlib)
