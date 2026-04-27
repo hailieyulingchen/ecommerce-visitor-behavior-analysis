@@ -8,6 +8,7 @@ In terms of visitor segmentation:
 - Returning visitors: 10,551 sessions (1,470 purchases, 9,081 non-purchases)
 
 This imbalance reflects real-world e-commerce behavior, where the majority of sessions do not lead to a transaction.
+
 Data Resource: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
 ## Key Insights
