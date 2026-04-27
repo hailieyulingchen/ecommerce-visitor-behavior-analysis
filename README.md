@@ -14,7 +14,7 @@ Data Resource: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasin
 ## Key Insights
 1. New visitors show higher conversion rates
 2. Product engagement strongly influences conversion
-3. Conversion trends vary across months
+3. Conversion trends vary across months and may be influenced by seasonal factors
 
 ## Visualizations
 
