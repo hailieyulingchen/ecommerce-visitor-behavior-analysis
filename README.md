@@ -1,4 +1,4 @@
-# ecommerce-kpi-dashboard
+# purchase-intent-kpi-analysis
 The goal of this project is to analyze the relationship between customer behavior and conversion to support business decision-making.
 
 ## Dataset
