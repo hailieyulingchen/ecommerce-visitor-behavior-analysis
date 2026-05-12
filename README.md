@@ -7,25 +7,17 @@ The project focuses on:
 3. visualizing KPIs through an interactive dashboard
 
 ## Workflow
-1. Data Processing & KPI Analysis (Python)
-Python was used for:
-data preprocessing
-feature engineering
-KPI calculation
-exploratory analysis
+1. Data Processing & KPI Analysis (Python):
+   data preprocessing
+   feature engineering
+   KPI calculation (Total Sessions, Conversion Rate, Average Session Duration, Product Engagement Level)
+   exploratory analysis
 
-Key engineered metrics include:
-Total Sessions
-Conversion Rate
-Average Session Duration
-Product Engagement Level
-
-2. Dashboard Visualization (Tableau Public)
-Tableau Public was used to build an interactive dashboard to visualize:
-Visitor behavior comparison
-engagement vs conversion analysis
-monthly conversion trends
-KPI summaries
+2. Dashboard Visualization (Tableau Public):
+   Visitor behavior comparison
+   engagement vs conversion analysis
+   monthly conversion trends
+   KPI summaries
 
 ### Dashboard Preview
 ![Dashboard](images/Tableau_Dashboard.png)
