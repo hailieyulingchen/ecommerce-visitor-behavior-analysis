@@ -22,10 +22,11 @@ Product Engagement Level
 
 2. Dashboard Visualization (Tableau Public)
 Tableau Public was used to build an interactive dashboard to visualize:
-visitor behavior comparison
+Visitor behavior comparison
 engagement vs conversion analysis
 monthly conversion trends
 KPI summaries
+
 ### Dashboard Preview
 ![Dashboard](images/Tableau_Dashboard.png)
 
