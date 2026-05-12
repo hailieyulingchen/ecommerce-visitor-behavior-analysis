@@ -8,12 +8,16 @@ The project focuses on:
 
 ## Workflow
 1. Data Processing & KPI Analysis (Python):
+   
    data preprocessing
+   
    feature engineering
+   
    KPI calculation (Total Sessions, Conversion Rate, Average Session Duration, Product Engagement Level)
+   
    exploratory analysis
 
-2. Dashboard Visualization (Tableau Public):
+3. Dashboard Visualization (Tableau Public):
    Visitor behavior comparison
    engagement vs conversion analysis
    monthly conversion trends
