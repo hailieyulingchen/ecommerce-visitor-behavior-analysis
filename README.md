@@ -18,9 +18,13 @@ The project focuses on:
    exploratory analysis
 
 3. Dashboard Visualization (Tableau Public):
+   
    Visitor behavior comparison
+   
    engagement vs conversion analysis
+   
    monthly conversion trends
+   
    KPI summaries
 
 ### Dashboard Preview
