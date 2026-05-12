@@ -1,5 +1,33 @@
-# purchase-intent-kpi-analysis
+# commerce visitor behavior analysis
 The goal of this project is to analyze the relationship between customer behavior and conversion to support business decision-making.
+
+The project focuses on:
+1. comparing new and returning visitors
+2. analyzing engagement behavior
+3. visualizing KPIs through an interactive dashboard
+
+## Workflow
+1. Data Processing & KPI Analysis (Python)
+Python was used for:
+data preprocessing
+feature engineering
+KPI calculation
+exploratory analysis
+
+Key engineered metrics include:
+Total Sessions
+Conversion Rate
+Average Session Duration
+Product Engagement Level
+
+2. Dashboard Visualization (Tableau Public)
+Tableau Public was used to build an interactive dashboard to visualize:
+visitor behavior comparison
+engagement vs conversion analysis
+monthly conversion trends
+KPI summaries
+### Dashboard Preview
+
 
 ## Dataset
 The dataset is the Online Shoppers Purchasing Intention Dataset from the UCI Machine Learning Repository. It is highly imbalanced, with around 15.5% of sessions resulting in a purchase, while 84.5% did not.
