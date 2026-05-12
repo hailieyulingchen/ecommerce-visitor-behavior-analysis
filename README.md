@@ -1,4 +1,4 @@
-# E-commerce visitor behavior analysis
+# E-commerce Visitor Behavior Analysis
 The goal of this project is to analyze the relationship between customer behavior and conversion to support business decision-making.
 
 The project focuses on:
