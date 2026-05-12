@@ -1,4 +1,4 @@
-# commerce visitor behavior analysis
+# E-commerce visitor behavior analysis
 The goal of this project is to analyze the relationship between customer behavior and conversion to support business decision-making.
 
 The project focuses on:
@@ -27,7 +27,15 @@ engagement vs conversion analysis
 monthly conversion trends
 KPI summaries
 ### Dashboard Preview
+![Dashboard](images/Tableau_Dashboard.png)
 
+## Key Insights
+1. New visitors show higher conversion rates
+2. Product engagement strongly influences conversion
+3. Conversion trends vary across months and may be influenced by seasonal factors
+
+## Tableau Public Link
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/E-commerceVisitorBehaviorDashboard/1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dataset
 The dataset is the Online Shoppers Purchasing Intention Dataset from the UCI Machine Learning Repository. It is highly imbalanced, with around 15.5% of sessions resulting in a purchase, while 84.5% did not.
@@ -37,23 +45,8 @@ In terms of visitor segmentation:
 
 This imbalance reflects real-world e-commerce behavior, where the majority of sessions do not lead to a transaction.
 
-Data Resource: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+[View Data Resource](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
 
-## Key Insights
-1. New visitors show higher conversion rates
-2. Product engagement strongly influences conversion
-3. Conversion trends vary across months and may be influenced by seasonal factors
-
-## Visualizations
-
-### KPI Overview
-![KPI](images/kpi_overview.png)
-
-### Product Engagement
-<img src="images/product_engagement.png" width="600">
-
-### Monthly Trend
-<img src="images/monthly_trend.png" width="600">
 
 ## Tools
 - Python (pandas, matplotlib)
